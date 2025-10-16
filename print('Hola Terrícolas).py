@@ -1,2 +1,5 @@
 print("Hola Terrícolas")
 print("¿Cómo están?")
+print("Espero que muy bien")
+print("Nos vemos en la próxima")   
+print("Adiós")
